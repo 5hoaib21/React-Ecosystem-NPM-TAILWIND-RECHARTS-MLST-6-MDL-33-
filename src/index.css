@@ -1,0 +1,11 @@
+/* google font cdn */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+/* tailwind && daisyUI cDN */
+ @import "tailwindcss";
+ @plugin "daisyui";
+
+
+ /*  */
+ *{
+  font-family: "Roboto", sans-serif;
+ }
