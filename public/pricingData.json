@@ -19,6 +19,7 @@
     "id": 2,
     "name": "Standard Plan",
     "price": 49,
+    "popular": true,
     "description": "Great for regular members who want extra classes and support.",
     "features": [
       "Access to gym equipment",
@@ -28,10 +29,8 @@
       "Access during regular hours",
       "Free Wi-Fi",
       "Steam room access",
-      "Changing room access",
-      "Water station access",
-      "Body composition check",
-      "Workout progress tracking"
+      "Changing room access"
+     
     ]
   },
   {
@@ -47,12 +46,8 @@
       "Locker facility",
       "Steam room & sauna access",
       "Priority support",
-      "Free gym merchandise",
-      "Changing room access",
-      "Water station access",
-      "Monthly fitness assessment",
-      "Custom workout plan",
-      "Recovery zone access"
+      "Free gym merchandise"
+     
     ]
   }
 ]
