@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 29,
+    "description": "Perfect for beginners who want access to essential gym facilities.",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "1 free fitness assessment",
+      "Access during regular hours",
+      "Free Wi-Fi",
+      "Changing room access",
+      "Water station access",
+      "Beginner workout guidance"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 49,
+    "description": "Great for regular members who want extra classes and support.",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "Group fitness classes",
+      "2 personal training sessions",
+      "Access during regular hours",
+      "Free Wi-Fi",
+      "Steam room access",
+      "Changing room access",
+      "Water station access",
+      "Body composition check",
+      "Workout progress tracking"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 79,
+    "description": "Best for fitness enthusiasts who want full access and premium support.",
+    "features": [
+      "24/7 gym access",
+      "Unlimited group classes",
+      "5 personal training sessions",
+      "Diet consultation",
+      "Locker facility",
+      "Steam room & sauna access",
+      "Priority support",
+      "Free gym merchandise",
+      "Changing room access",
+      "Water station access",
+      "Monthly fitness assessment",
+      "Custom workout plan",
+      "Recovery zone access"
+    ]
+  }
+]

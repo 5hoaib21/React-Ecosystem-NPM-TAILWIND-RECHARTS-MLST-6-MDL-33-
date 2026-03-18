@@ -7,7 +7,7 @@ function App() {
 
 <header>
 <Navbar></Navbar>
-  <DaisyNav></DaisyNav>
+  {/* <DaisyNav></DaisyNav> */}
 </header>
 
       <h1 className="p-20 text-4xl font-bold">Hey tailwind + DaisyUI </h1>
