@@ -18,17 +18,22 @@ function App() {
         {/* <DaisyNav></DaisyNav> */}
       </header>
 
+        <ResultChart></ResultChart>
 
       <main>
         <Suspense fallback={<span className="loading loading-dots loading-lg"></span>}>
           <PricingOptions pricingPromise={pricingPromise}></PricingOptions>
         </Suspense>
+
+
+
       </main>
     </>
   );
 }
-import DaisyNav from "./components/DaisyNav/DaisyNav";
+
 import Navbar from "./components/Navbar/Navbar";
 import PricingOptions from "./components/PricingOptions/PricingOptions";
+import ResultChart from "./components/ResultChart/ResultChart";
 
 export default App;
